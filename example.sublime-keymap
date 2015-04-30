@@ -1,0 +1,7 @@
+[
+    //make variable array
+    { "keys": ["alt+a"], "command": "insert_snippet", "args": {"name": "Packages/User/snippet/php_make_it_array.sublime-snippet"}},
+
+    //wrap variable up by function
+    { "keys": ["alt+f"], "command": "wrap_by_func"}
+]
