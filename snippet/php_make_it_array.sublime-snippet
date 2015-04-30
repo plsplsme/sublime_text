@@ -6,5 +6,5 @@ ${1:array}['$TM_SELECTED_TEXT']
 	<tabTrigger>makeitarray</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.php</scope>
-	<description>tmp -> $array['tmp']</description>
+	<description>Wrap variable by array symbol</description>
 </snippet>
